@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: sysacademia
+        psr4_prefix: sysacademia
+        src_path: app
